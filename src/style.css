@@ -4,13 +4,14 @@ body {
 }
 
 .block {
+  box-sizing: border-box;
   margin: 10px;
   border: 1px solid #e95d49;
 }
 
 .first {
   margin-bottom: 40px;
-  width: 348px;
+  width: 350px;
   background-color: #308dc0;
 }
 
